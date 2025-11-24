@@ -27,7 +27,7 @@
     <p style="margin: 10px 0; font-size: 1.1em; color:white">
       Atualmente, atuo como Desenvolvedor Backend na <em>Gransys</em>, especializado em Laravel e Vue.js. 
       Tenho expertise em desenvolvimento de APIs RESTful, rotinas de automação ETL e análise de dados com Python.
-    </p>
+    </p> 
     <p style="margin: 10px 0; font-size: 1.1em; color:white">
       Busco constantemente aprimorar minhas habilidades e contribuir para projetos desafiadores que me permitam crescer como profissional.
     </p>
